@@ -8,9 +8,9 @@ This application is a note taking app for keeping up with important reminders or
 
 ## Usage
 
-Deployment link: 
+Deployment link: https://warm-plains-54922-58542c534b47.herokuapp.com/
 
-![alt text](assets/images/screenshot.png)
+![screenshot](images/screenshot.png)
 
 GIVEN a note-taking application
 WHEN I open the Note Taker
